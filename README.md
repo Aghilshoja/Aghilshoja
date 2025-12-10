@@ -8,7 +8,7 @@ I'm a developer
 * ✉️  You can contact me at [aghil.shoja.dev@gmail.com](mailto:aghil.shoja.dev@gmail.com)
 * 🧠  I'm currently learning TypeScript
 * 👥  I'm looking to collaborate on projects that challenge me to think critically, solve complex problems, and work with others to craft innovative solutions that enhance user experiences
-* 💬  Ask me about As a front-end developer, I'm deeply curious about how software interacts with hardware and how data is stored at the atomic level. This 'physics mindset' fuels my desire to understand the evolution of technology, enabling me to anticipate challenges and innovations ahead. While still growing in my career, I aim to contribute valuable perspectives and creative solutions, learning from more experienced colleagues along the way."
+* 💬As a front-end developer, I'm deeply curious about how software interacts with hardware and how data is stored at the atomic level. This 'physics mindset' fuels my desire to understand the evolution of technology, enabling me to anticipate challenges and innovations ahead. While still growing in my career, I aim to contribute valuable perspectives and creative solutions, learning from more experienced colleagues along the way."
 
 ## Skills
 <p align="left">
